@@ -7,6 +7,9 @@ Then "npm run dev"
 Used .env File with these paramaters for cookie auth as well as mongodb Connection
 
 MONGO_URL = 
+
 ADMIN_USERNAME = 
+
 ADMIN_PASSWORD = 
+
 TOKEN = 
